@@ -24,4 +24,3 @@ La calculadora permite realizar las siguientes acciones:
 3. Abrir una terminal.
 4. Ejecutar el archivo: interfaz.py
 5. Se abrirá la ventana de la calculadora y se podrá comenzar a utilizar.
-
